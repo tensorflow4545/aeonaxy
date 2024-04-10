@@ -1,0 +1,18 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+
+
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&display=swap');
+
+@font-face {
+    font-family: 'Emilio';
+    src: url(../../fonts/Kaisei_Tokumin/KaiseiTokumin-Regular.ttf);
+}
+
+
+
+
