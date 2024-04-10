@@ -86,7 +86,7 @@ export default function Home(){
               </div>
                
               {/* content */}
-              <div className="px-[20px] py-[30px]">
+              <div className={`px-[20px] py-[30px] ${collapse=="false"?"hidden":""}`}>
 
               <p className="text-[20px] text-black font-extrabold pb-[20px]">Getting Started</p>
 
